@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: c095ff699eb914940b00c019a590a89f
+timeCreated: 1479127506
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Brick_Wall
+    100010: Cylinder001
+    100012: Cylinder002
+    100014: Enemy_FrozenSlime
+    100016: Enemy_LilSharp
+    100018: Enemy_ShardSlime
+    100020: GeoSphere001
+    100022: GeoSphere002
+    100024: GeoSphere003
+    100026: GeoSphere004
+    100028: GeoSphere005
+    100030: GeoSphere006
+    100032: GeoSphere007
+    100034: //RootNode
+    100036: Michael
+    100038: Rock_1
+    100040: Rock_2
+    100042: Tree
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Brick_Wall
+    400010: Cylinder001
+    400012: Cylinder002
+    400014: Enemy_FrozenSlime
+    400016: Enemy_LilSharp
+    400018: Enemy_ShardSlime
+    400020: GeoSphere001
+    400022: GeoSphere002
+    400024: GeoSphere003
+    400026: GeoSphere004
+    400028: GeoSphere005
+    400030: GeoSphere006
+    400032: GeoSphere007
+    400034: //RootNode
+    400036: Michael
+    400038: Rock_1
+    400040: Rock_2
+    400042: Tree
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Brick_Wall
+    2300010: Cylinder001
+    2300012: Cylinder002
+    2300014: GeoSphere001
+    2300016: GeoSphere002
+    2300018: GeoSphere003
+    2300020: GeoSphere004
+    2300022: GeoSphere005
+    2300024: GeoSphere006
+    2300026: GeoSphere007
+    2300028: Rock_1
+    2300030: Rock_2
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Brick_Wall
+    3300010: Cylinder001
+    3300012: Cylinder002
+    3300014: GeoSphere001
+    3300016: GeoSphere002
+    3300018: GeoSphere003
+    3300020: GeoSphere004
+    3300022: GeoSphere005
+    3300024: GeoSphere006
+    3300026: GeoSphere007
+    3300028: Rock_1
+    3300030: Rock_2
+    4300000: Brick_Wall
+    4300002: Rock_1
+    4300004: Rock_2
+    4300006: GeoSphere002
+    4300008: GeoSphere001
+    4300010: Box004
+    4300012: Cylinder001
+    4300014: Box001
+    4300016: Box002
+    4300018: GeoSphere005
+    4300020: GeoSphere004
+    4300022: GeoSphere006
+    4300024: GeoSphere007
+    4300026: Cylinder002
+    4300028: GeoSphere003
+    4300030: Box003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
